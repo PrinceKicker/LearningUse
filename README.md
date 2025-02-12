@@ -1,4 +1,3 @@
 # LearningUse
-Just Learning how to use
-# Teacher
+Just Learning how to useclearclear
 Prince
